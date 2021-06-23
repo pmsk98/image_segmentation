@@ -1,11 +1,11 @@
 # image_segmentation
 
 
-##캡스톤 프로젝트(image segmentation)
+## 캡스톤 프로젝트(image segmentation)
 
 
 
-##기존 연구 기술 조사 정리
+## 기존 연구 기술 조사 정리
 
 - semantic segmentation 기본 개념 : https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb
 
@@ -17,7 +17,7 @@
 - google colab pro
 
 
-##사용 모델
+## 사용 모델
 - segnet
 - fcn32
 - linknet
